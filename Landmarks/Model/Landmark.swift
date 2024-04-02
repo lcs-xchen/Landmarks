@@ -98,7 +98,7 @@ let allLandmarks = [
     cnTower,
     rom,
     wonderland,
-    kawarthas
+    kawarthas,
     blueMountain
 ]
 
